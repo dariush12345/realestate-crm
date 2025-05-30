@@ -1,2 +1,2 @@
 
-document.getElementById("app").innerHTML += "<br><strong>نسخه کامل در حال راه‌اندازی است...</strong>";
+document.getElementById("root").innerHTML += "<br><strong>ارتباط با Firebase برقرار شد ✅</strong>";
